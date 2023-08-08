@@ -3,3 +3,39 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.header{
+  background-color: orange;
+}
+
+.logo{
+  background-color: pink;
+  height: 80px;
+}
+
+.content{
+  background-color: pink;
+  height: 80px;
+}
+
+.sidebar{
+  background-color: #d8ffb6;
+}
+
+.main-content{
+  background-color: green;
+}
+
+.box{
+  background-color: yellow;
+  height: 200px;
+}
+
+.footer{
+  background-color: blue;
+}
+
+.footer-content{
+  background-color: skyblue;
+  height: 50px;
+}
